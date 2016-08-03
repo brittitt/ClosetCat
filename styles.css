@@ -1,0 +1,14 @@
+.outfit {
+
+  margin: 10px;
+  width: 275px;
+  height: 475px;
+
+}
+
+.outfit-container {
+
+	display:flex;
+	flex-wrap: wrap; 
+
+}
